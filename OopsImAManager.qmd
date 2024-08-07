@@ -92,8 +92,6 @@ Often new processes are put into place and accumulate like fossils past their us
 <br>
 
 ::: {.columns}
-::: {.column width="15%"}
-:::
 ::: {.column width="25%"}
 :::: {.fragment .center-fragment}
 ![Oops MVP Orders](images/Oops-MVP-Orders.png){width=400 height=400}
@@ -113,12 +111,6 @@ GATHER
 
 :::: fragment 
 ### Ordering and Batching 
-<br>
-
-::::
-
-:::: fragment
-### Speccing the work
 <br>
 
 ::::
