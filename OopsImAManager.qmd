@@ -2,7 +2,7 @@
 title: "Oops I am a Manager <br> MVP<br>"
 subtitle: "Minimal Viable Process<br><br>"
 author: Andrew Holz 
-date: September 20, 2023
+date: September , 2024
 title-slide-attributes: 
   data-background-color: black
   data-background-image: "/images/OopsManagerBackground.png"
@@ -88,10 +88,8 @@ MINIMAL:
 Often new processes are put into place and accumulate like fossils past their useful timeframe.
 :::
 
-## DISTILLING THE PROCESS
-
+## DISTILLING THE PROCESS - PLANNING
 <br>
-
 
 ::: {.columns}
 ::: {.column width="15%"}
@@ -104,12 +102,66 @@ GATHER
 (and order)
 ::::
 :::
+
+::: {.column width="60%"}
+
+:::: fragment
+### Understanding your source 
+<br>
+
+::::
+
+:::: fragment 
+### Ordering and Batching 
+<br>
+
+::::
+
+:::: fragment
+### Speccing the work
+<br>
+
+::::
+
+:::
+
+
+## DISTILLING THE PROCESS - DOING 
+<br>
+
+::: {.columns}
+::: {.column width="15%"}
+:::
 ::: {.column width="25%"}
 :::: {.fragment .center-fragment}
 ![Oops MVP DS](images/Oops-MVP-DS.png){width=400 height=400}
 DO SHIT
 ::::
 :::
+
+::: {.column width="60%"}
+
+:::: fragment
+### Picking work 
+<br>
+
+::::
+
+:::: fragment 
+### Ordering and Batching 
+<br>
+
+::::
+
+:::: fragment
+### Speccing the work
+<br>
+
+::::
+
+:::
+
+
 
 ::: {.column width="25%"}
 :::: {.fragment .center-fragment} 
@@ -146,8 +198,7 @@ Intertia is the enemy!
 EXPERIMENTATION is your friend.
 :::
 
-## QUEUEING
-<br><br>
+
 
 ::: {.columns}
 ::: {.column width="15%"}
@@ -211,7 +262,7 @@ They were serving themselves and needed missions not specs.  QA was insisting on
 as speccing and tracking.
 :::
 
-## DOING SHIT
+## DISTILLING THE PROCESS - DELIVERING
 <br> <br>
 
 ::: {.columns}
