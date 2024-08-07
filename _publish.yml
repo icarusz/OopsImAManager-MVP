@@ -1,0 +1,10 @@
+- source: OSDemoDayDec22.qmd
+  quarto-pub:
+    - id: fea01ec0-f964-40d1-bbb1-e3970dd4fb70
+      url: 'https://quartopub.com/sites/icarusz/opensourcedemos-dec22'
+- source: OSDemoDayMar3.qmd
+  quarto-pub:
+    - id: 6f47f9c5-1c26-4bb1-8b4c-2d2f3e53ac80
+      url: 'https://quartopub.com/sites/icarusz/open-source-demos'
+    - id: 85c7397b-82fb-4103-ba0a-406b2832c001
+      url: 'https://quartopub.com/sites/icarusz/open-source-demos-mar3'

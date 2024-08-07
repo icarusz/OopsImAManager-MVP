@@ -1,0 +1,134 @@
+/*-- scss:defaults --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mountains+of+Christmas:wght@300;400;@500');
+
+// css
+
+#title-slide > h1 {
+  text-align: center;
+  font-weight: 300;
+  color: #F2C230;
+}
+
+#title-slide .subtitle {
+  font-size: 70px;
+  font-weight: 600;
+  color: #F2C230;
+}
+
+#title-slide > p {
+  color:  #fff;
+  font-size: 45px;
+  text-align: center;
+  font-weight: 500;
+}
+
+#title-slide .quarto-title-author-name {
+  text-align:left;
+  font-size: 60px;
+  font-weight: 300;
+}
+
+h1 {
+  font-weight: 600 !important;
+  color: #F2C230 !important;
+}
+
+h2 {
+  font-weight: 700 !important;
+  color: #D9831A !important;
+}
+
+h3 {
+  font-weight: 500 !important;
+  color: #F2C230 !important;
+}
+
+body {
+  font-size: 85px;
+  font-weight: 600 !important;
+  color: #F2C230 !important;
+}
+
+// fonts
+$font-family-sans-serif: 'Open Sans', sans-serif !default;
+$font-family-monospace: 'Source Code Pro', monospace !default;
+
+// colors
+$body-bg: #0D0D0D !default;
+$body-color: #fff !default;
+$link-color: #447099 !default;
+$code-color: #72994E !default;
+$selection-bg: #EE6331;
+
+$dark-bg: #1E5959;
+$medium-bg: #378C84;
+$seuss-yellow: #F2C230;
+$seuss-orange: #D9831A;
+$seuss-black: #0D0D0D;
+
+.yellow-detail {
+  font-weight: 400 !important;
+  color: $seuss-yellow !important;
+}
+
+// dark colors
+$dark-bg-text-color:	#fff !default;
+$dark-bg-link-color:	#A2B8CB !default;
+$dark-bg-code-color:	#72994E !default;
+
+// headings
+$presentation-heading-font: "Open Sans", sans-serif !default;
+
+.poem {
+    margin-left: 50;
+    font-family: 'Mountains of Christmas', sans-serif;
+    font-size: 60px;
+    font-weight: 500;
+}
+
+tactic-title{
+    font-family: 'Mountains of Christmas', sans-serif;
+    font-size: 60px;
+    font-weight: 500;  
+}
+
+tactic {
+  text-align: middle;
+  font-weight: 400;
+  font-size: 50px;
+  color: #FFF9C4 !important;
+}
+
+tactic-details {
+  font-weight: 500 !important;
+  font-size: 50px;
+  color: #0D0D0D !important;
+}
+
+.center-fragment {
+  margin-left: 25px;
+  text-align: center;
+  color: #F2C230;
+  margin-right: 25px;
+}
+
+.right-fragment {
+  text-align: right;
+}
+
+
+.question-fragment {
+  font-size: 45px;
+  margin-left: 20;
+  text-align: left;
+}
+
+.answer-fragment {
+  font-size: 40px;
+  text-align: right;
+  color: #F2C230;
+  margin-bottom: 50px;
+}

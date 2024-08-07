@@ -1,0 +1,508 @@
+---
+title: "Oops I am a Manager <br> MVP<br>"
+subtitle: "Minimal Viable Process<br><br>"
+author: Andrew Holz 
+date: September 20, 2023
+title-slide-attributes: 
+  data-background-color: black
+  data-background-image: "/images/OopsManagerBackground.png"
+format:
+  revealjs: 
+    width: "1600"
+    height: "900"
+    theme: [default, custom.scss]
+---
+
+## Who am I {background-image="/images/backgrounds/OopsLineupBackground.png"}
+### (and why "Oops" ?) 
+<br>
+
+- Many early leadership opportunities are "battlefield promotions" 
+
+- Leadership roles often "emerge" rather than being planned
+
+- Very few organizations have good (or any?) leadership development
+
+::: {.notes}
+
+HOW I GOT HERE
+
+HERE? CURRENT TITLE "HEAD OF ENGINEERING OPEN SOURCE"
+supporting Shiny,Quarto and mlverse teams
+
+- BELL LABS 25 YEARS AGO ONE JOB OUT OF MY CS/PYSCH degree
+
+MANY LEADERSHIP OPPORTUNITIES ARE ACCIDENTAL OR BACKED INTO
+
+OPPORTUNITY EMERGE
+
+THIS TALK IS A LITTLE HELP FOR PEOPLE THAT MIGHT BE ON THE OOPS 
+
+NOT SO SECRET MISSION IS TO ENCOURAGE EXPLORATION of TECHNICAL MANAMANGENT FOR THOSE WITH INTEREST
+
+:::
+
+## Why Minimal Viable Process?!?
+
+<br>
+
+
+::: {.notes}
+
+:::
+
+## The Human Brain 
+### (and core needs)
+<br>
+  Prefontal Cortex - rationality, logic, – deep complex work
+  
+  Amygdala - analyzing the environment and looking for danger
+
+<br>
+
+  - Group meetings are complex environments and if the person is under stress
+  (struggling with a deadline) the Amagdala can kick into gear
+  
+  - Some discussions which are a minefield in a group setting can be rationally worked through 1-on-1  
+
+  - Between a lead and a team member OR between two team members
+
+::: {.notes}
+  TO UNDERSTAND WHY 1on1s ARE IMPORTANT FOR TEAM HEALTH
+  
+  PERHAPS YOU HAVE BEEN WITNESS TO A MEETING FREAK OUT - IF NOT YET YOU WILL BE
+
+  PREFRONTAL CORTEX - LOGIC and RATIONALITY
+  
+  AMYGDALA - ANYLZE ENVIRONMENTS LOOKING FOR DANGER
+  
+  GROUP MEETINGS ARE COMPLEX ENVIRONMENTS!!!
+
+  CORE NEEDS 
+  
+    Belonging
+  
+    Equality and Fairness 
+  
+    Progress
+  
+    Choice 
+    
+  TAKE TOPICS THAT TOUCH ON CORE NEEDS OUT OF THE GROUP SESSION AND INTO 1om1s
+:::
+
+## 1-on-1s are Essential {background-image="/images/backgrounds/Oops1in1AllTypesBackground.png"}
+<br>
+Better 1-on-1s -> Increased Trust -> Stonger Teams
+
+Consider three important flavors (with three associated practices)
+
+
+::: {.notes}
+
+THREE TYPES, THREE TACTICS
+
+TACTICS ARE SIMPLE
+
+:::
+
+## Team Lead and Team Member {background-image="/images/backgrounds/OopsTeamLeadBackground.png"}
+### <b>GOALS</b>
+<br> 
+
+- Build trust
+
+- Establish goals (personal and team)
+
+- Give feedback *
+
+::: {.notes}
+
+TRUST IS BUILT ON GOOD 1-on-1s - BEDROCK
+
+GOALS - TEAM VALUE
+
+GOALS - PERSONAL - CAREER GROWTH
+
+FEEDBACK - HARD CONVERSATIONS CAN BUILD TRUST
+
+FEEDBACK - CRAP SANDWHICH
+
+RATHER - DIRECT SPECIFIC OBERSVATIONS AND FOCUS ON QUESTIONS
+
+GAUGE REACTIONS AND ADJUST - ITERATE
+
+PRO TIP: 
+AVOID ALOT OF PROJ STATUS - WILL FILL TIME AND DISTRACTS FROM DEEPER GOALS
+:::
+
+## {background-image="/images/backgrounds/Oops1in1QuestionsBackground.png"}
+
+::: {.notes}
+
+LANGUAGE SHOULD BE ABOUT JOINT EXPLORATION
+
+POWERFUL QUESTIONS LEADING TO IMPORTANT _2 PERSON DISCUSSIONS_
+
+SNEAKY TROUBLES - DISCOVER TROUBLES EARLY
+
+PRO TIP:  Keep conversations mostly constructive (without avoiding challenging feedback)
+
+:::
+
+## {background-image="/images/backgrounds/testbackground.png"}
+
+<br>
+
+::: {.column width="20%"}
+
+<img src="images/tacticone.png" style="border-radius: 5%;" width="400"/>
+
+<tactic> Topic Scorecard 
+
+:::
+
+::: {.column width="5%"}
+
+:::
+::: {.column width="65%"}
+
+<br>
+
+<tactic-details> - Take list from previous slide 
+
+<tactic-details> - Set an alarm _5 minutes_ before every 1-on-1
+
+<tactic-details> - Note 3 relevant topics
+
+<br>
+
+<tactic-details> *Bonus points*: At the end of each 1-on-1 note the date and topics you meaningfully covered
+
+:::
+
+::: {.notes}
+TACTICS are TRIVIALLY EASY
+
+BUT ACTUALLY DO THEM results CAN BE PROFOUND
+
+BUILD AS HABITS SO THEY ARE AUTOMATIC AND SUSTAINED
+
+ITS TALKING TO ANOTHER HUMAN -- HOW HARD CAN IT BE?
+:::
+
+## Team Lead and Team Memeber {background-image="/images/backgrounds/OopsTeamLeadBackground.png"}
+### <b>Matrix Org?</b>
+
+Data teams are often matrixed orgs (along with QA)
+
+- Spend extra time being supportive and actively listening
+
+- Ask what support or resources they need 
+
+- Ensure they have a clear uderstanding of success 
+
+- Have 1-on-1s with their embedded team lead
+
+::: {.notes}
+MATRIX ORG JUST MEANS MANAGEMENT CHAIN DIFFERENT FROM TEAM LEADERSHIP
+
+MORE TIME ON SUPPORTING AND OFFERING HELP
+
+DEFINING SUCCESS CAN BE HARDER
+
+HAVE 1on1 WITH THEIR EMBEDDED TEAM LEAD
+:::
+
+## You and Your Boss {background-image="/images/backgrounds/OopsBossBackground.png"}
+### GOALS
+<br>
+
+- Deep understanding of organizational goals from _their_ perspective
+
+- Cover sticky challenges and avoid "meeting surprises"
+
+- Be explicit about what you are asking for 
+
+::: {.notes}
+
+MORE PREP FOR YOUR BOSS 1-on-1 (ESPICALLY AT HIGHER LEVELS)
+
+THE HIGHER UP - MORE SCOPE - LIVE IN MESSIER WORLDS
+
+WHY MANAGERS OFTEN SEEM CLUELESS
+
+AVOID MEETING SURPRISES
+
+BE EXPLICIT ABOUT WHAT YOU ARE ASKING FOR - INFORM, ADVICE, ACTION
+
+PRO TIP: I INTEND TO LANGUAGE 
+
+MAYBE STORY (12 MINS) 
+ABOUT HEYWARD - REVENT CEO OF RITE-AID
+:::
+
+## {background-image="/images/backgrounds/testbackground.png"}
+
+<br>
+
+::: {.column width="20%"}
+
+<img src="images/tactictwo.png" style="border-radius: 10%;" width="500"/>
+
+<tactic> Shared Running History
+
+:::
+
+::: {.column width="5%"}
+
+:::
+::: {.column width="65%"}
+
+<br>
+
+<tactic-details> Shared document -- (attached to the calendar invite!)
+
+<tactic-details> Dated entry for each meeting 
+
+<tactic-details> Most recent meetings on top
+
+<tactic-details> Bullet list of topics (everyone adds!)
+
+<tactic-details> Bullet list of Takeaways/Action Items (1-3)
+
+:::
+
+::: {.notes}
+
+SIMPLE ROLLING SHARED DOC
+
+GOOGLEDOCS WORK GREAT - AGAIN SIMPLE BUT POWERFUL
+
+DATE - TOPICS - TAKEWAYS/ACTION ITEMS
+
+HISTORY HELPS YOUR BOSS WITH CONTEXT
+
+LETS YOU FOLLOW UP ON WHAT YOU NEED FROM THEM
+
+PRO TIP: TARGET LESS THAN THREE ACTION/ITEMS
+DATES IN THE FUTURE ARE CLOSER THAN THEY APPEAR
+
+:::
+
+## You and your Peers {background-image="/images/backgrounds/OopsPeerBackground.png"}
+### GOALS
+
+<br>
+
+- Establish shared landscape
+
+- Focused discussions on shared challenges and opportunities 
+
+- Review positive and negative patterns 
+
+::: {.notes}
+
+MORE INFO SHARING THAN OTHERS 
+
+GAPS BETWEEN TEAMS AND TEAM MEMBERS ARE HUGE SOURCE OF WASTE AND COFLICT - HELP FILL THEM IN
+
+SHARED MINI RETRO
+
+ALTHOUGH A BIT OF VENTING CAN BE CATHARTIC AVOID TOO MUCH
+
+SCHEDULED PAIRING CAN BE REALLY POWERFUL
+
+PRO TIP: SIMPLE OFFERS OF HELP BUILD TRUST - START SMALL
+
+:::
+
+## {background-image="/images/backgrounds/testbackground.png"}
+
+<br>
+
+::: {.column width="20%"}
+
+<img src="images/tacticthree.png" style="border-radius: 10%;" width="500"/>
+
+<tactic> Connection Graph
+
+:::
+
+::: {.column width="5%"}
+
+:::
+::: {.column width="65%"}
+
+<tactic-details> Draw a simple network graph with you in the center
+
+<tactic-details> Add the most important people around you
+
+<tactic-details> Proximity represents desired strength of the relationship
+
+<tactic-details> Schedule frequency and meeting length to reflect importance 
+
+<tactic-details> Accumulate gradually, seasonally prune
+
+:::
+
+::: {.notes}
+
+BE INTENTIONAL ABOUT WHO YOU MEET WITH AND HOW OFTEN
+
+MOST ORGANIZATIONS LOSE CRITICAL STUFF INTO CRACKS - SEAL THEM WITH PEER 1on1s
+
+IF YOU DRAW - BET AT LEAST ONE MISSING 1on1 STARES BACK AT YOU
+
+EVEN QUARTERLY CAN BE SURPRISINGLY HELPFUL
+
+PRO TIP: AVOID ONLY HAVING WITH FAVORITES - CAN LEAD TO CLIQUES
+
+:::
+
+## Aligning all the sneetches 
+### MAY DROP
+
+TRUST AND ALGINMENT
+
+(pyramid on the three layers and aligning - goals on one side arrow pyramid on the other)
+
+Leveraging the safety and specificity a 1-on-1 can provide - to help maintain autonomy but ensure alignment
+
+## Conclusion
+
+### A plug for exploring technical management 
+<br>
+
+- Do you feel joy when someone you helped or your team succeeds 
+
+- Does poorly organized or wasteful work drives you crazy 
+
+<br>
+
+- Leaders and managers are multipliers on those they serve
+
+- Opportunities abound and are ever changing
+
+- Improving 1-on-1s is a low risk way to explore
+
+::: notes
+
+TEAM SUCCESS BRINGS YOU JOY? WASTED WORK DRIVE YOU CRAZY?
+
+TECHNICAL LEADERSHIP MIGHT BE THE WAY
+
+HUGE NEED CUZ SO MANY TECHNICAL FOLK AVOID - DIFFERENT THAN WHAT GOT THEM THERE
+
+RIGHT FOR ME?
+
+I FEEL MORE PRIDE FOR THE MANY SUPER TALENTED FOLKS
+I HAVE HELPED ON THEIR LEADERSHIP JOURNEY THEN ANYTHING I HAVE PERSONALLY DELIEVED
+
+TIMECHECK - save a minute - WORRIED ABOUT NO WAY BACK?
+
+CHRIS ALTERNATED - IC vs MANAGEMENT AND BOTH WERE STRENGTHENED
+
+HELPING ROBIN LEVEL UP - THERE IS A RUBICON - MNGR of MNGRs
+
+:::
+
+## Said another way...  {.poem}
+<br>
+
+In the land of the office, where meetings reside,
+
+Let's talk about 1-on-1s, oh, they can't be denied!
+
+For they're more than just chatter, more than just talk,
+
+They're the *path to success*, not a casual walk.
+
+<br>
+
+So listen up closely, for tactics are here,
+
+To make all your 1-on-1s something quite dear.
+
+::: notes
+
+IF YOU LOVE DR SEUSS 1/2 as MUCH AS I HOPEFULLY THIS WILL BRING IT ALL HOME
+
+IF NOT I BEG YOUR FORGIVENESS FOR MY INDULGNENCE
+
+:::
+
+## {.poem}
+<br><br>
+
+Tactic One, my friend, is a tip quite divine,
+
+*Rotate different topics*, let variety shine!
+
+Don't dwell on status, oh no, not too long,
+
+For a mix of discussions will make your bond strong.
+
+## {.poem}
+
+<br> <br>
+
+Tactic Two, you see, is a gem quite rare,
+
+Always *prepare notes*, show that you care!
+
+Keep a shared running set, for both you and for me,
+
+So when we look back, our progress we'll see.
+
+## {.poem}
+<br><br> 
+
+Tactic Three, ah yes, is the key to the door,
+
+*Draw out relationships*, you'll find so much more.
+
+Schedule frequency, and length, oh so wisely,
+
+For these are the moments that matter precisely.
+
+## {.poem}
+
+<br>
+
+So there you have it, tactics one, two, and three,
+
+Apply them with care, and then you will see.
+
+<br>
+
+*Though they may seem simple, don't let that confound,*
+
+For their impact on success is truly profound.
+
+<br>
+
+As your 1-on-1s flourish, like a well-tended tree,
+
+together, oh together, *how great we'll all be!*
+
+## Thanks!
+
+If you are on this journey and want some support PLEASE REACH OUT
+andrew.holz@posit.co
+linkedin/andrewholz
+
+<br>
+
+And some key technical leadership resources I love and keeping coming back to
+
+- Resilient Management by Lara Hogan
+ 
+- Help I have a manager by Julia Evans
+ 
+- An Elegant Puzzle by Will Larson 
+ 
+- The Managers Path by Camille Fournier
+
+- High-Impact Tools for Teams by Alex Osterwalder
+ 
