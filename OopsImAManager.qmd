@@ -2,7 +2,7 @@
 title: "Oops I am a Manager <br> MVP<br>"
 subtitle: "Minimal Viable Process<br><br>"
 author: Andrew Holz 
-date: September 13, 2024
+date: August 13, 2024
 title-slide-attributes: 
   data-background-color: black
   data-background-image: "/images/OopsManagerBackground.png"
@@ -16,39 +16,59 @@ format:
 ## Who am I {background-image="/images/backgrounds/OopsLineupBackground.png"}
 
 ### (and why "Oops" ?)
+<br>
 
-<br><br>
 
-::: incremental
--   Many early leadership opportunities are "battlefield promotions" <br>
--   Leadership roles often "emerge" rather than being planned <br>
--   Very few organizations have good (any?) leadership development
+:::::: {.columns}
+
+::: {.column width="10%"}
+
 :::
+
+::: {.column width="80%"}
+
+:::: fragment
+#### Many early leadership opportunities are **battlefield promotions** and **emerge** rather than being planned
+`<br>`{=html}
+::::
+
+:::: fragment
+#### Very few organizations have good (any?) leadership development
+`<br>`{=html}
+::::
+
+:::: fragment
+#### Lots of leadership training is dry and takes itself too seriously
+::::
+
+:::
+
+::::::
 
 ::: notes
 HOW I GOT HERE
 
-HERE? CURRENT TITLE "HEAD OF ENGINEERING OPEN SOURCE" supporting Shiny,Quarto and mlverse teams
+HERE? CURRENT TITLE **"HEAD OF ENGINEERING OPEN SOURCE"** supporting Shiny,Quarto and mlverse teams
 
-- BELL LABS 25 YEARS AGO ONE JOB OUT OF MY CS/PYSCH degree
+- Spin out from BELL LABS 25 YEARS AGO ONE JOB OUT OF MY **CS/PYSCH degree**
 - BEEN LEADING TECHNICAL TEAMS EVER SINCE
-  - Starups to midsize to 1 Fortune 500 company
-  - From an IC to a group of 80 or so
-  - Love helping people on that Leadership Journey more than anything
+  - **Starups to midsize to leading 80 people at a Fortune 500 company**
+  - Love helping people on **the Leadership Journey more than anything**
 
 MANY LEADERSHIP OPPORTUNITIES ARE ACCIDENTAL OR BACKED INTO
 
 OPPORTUNITY EMERGE
 
-THIS TALK IS A LITTLE HELP FOR PEOPLE THAT MIGHT BE ON THE OOPS
+THIS TALK IS A LITTLE HELP FOR PEOPLE THAT **MIGHT BE ON THE OOPS**
 
-NOT SO SECRET MISSION IS TO ENCOURAGE EXPLORATION of TECHNICAL MANAMANGENT FOR THOSE WITH INTEREST
+NOT SO SECRET MISSION IS TO ENCOURAGE EXPLORATION of TECHNICAL MANAMANGENT FOR THOSE WITH _ANY_ **GENUINE INTEREST IN BEING A FORCE MULTIPIER FOR OTHERS** 
+-- the less pointy haired bosses the better!
 
-MOST LEADERSHIP TRYING IS DRY, TAKES ITSELF SERIOUSLY and LACK SPECIFIC ACTIONS TO TRY AND PRACTICE
+MOST **LEADERSHIP TRAINING IS DRY, TAKES ITSELF SERIOUSLY and LACK SPECIFIC ACTIONS** TO TRY AND PRACTICE -- 
 :::
 
 ## MINIMAL VIABLE *PROCESS*?!?
-<br><br>
+<br> <br>
 
 ::: {.columns}
 ::: {.column width="15%"}
@@ -60,7 +80,7 @@ How shit gets done.
 ::::
 :::: fragment
 ### Viable
- Someone is paying the bills they have expectations of progress.
+ Someone is paying the bills, they expect meaningful progress.
 ::::
 ::: fragment
 ### Minimal 
@@ -72,57 +92,36 @@ Heavy processes don't promote progress they paralyze it.
 
 ::: notes
 PROCESS:
-  Structured Approach to accomplishing work.  
+  **Structured Approach** to accomplishing work.  
   -- turning needs into results
-  Implications of repeatable
-  Highlighting “process” explicitly points to the repeatable nature of work and the potential to Continually Improve how things get done.
+  Implications of **repeatable**
+  Highlighting “process” explicitly points to the repeatable nature of work and the potential to learn and **Continually Improve** how things get done.
 VIABLE:
-  Effective - 
-  Sustainable
+  **Effective** - 
+  **Sustainable**
 MINIMAL:
-  Simple.  (as you can get away with)
-  Remove complexity that doesnt add value!
-  Leave Space. (as you can get away with) People want to do good work.  Excessive process robs them of that. 
+  **Simple.**  (as you can get away with)
+  **Remove complexity that doesnt add value!**
+  **Leave Space.** (as you can get away with) People want to do good work.  
+  **Excessive process robs people of autonomy!**
     (people want autonomy and mastery) - success comes from motivated people in flow
-    
-Often new processes are put into place and accumulate like fossils past their useful timeframe.
 :::
 
-## DISTILLING THE PROCESS - PLANNING
-<br>
+## DISTILLING THE PROCESS
 
-::: {.columns}
+<br> <br>
+
+:::::: {.columns}
+::: {.column width="10%"}
+:::
 ::: {.column width="25%"}
 :::: {.fragment .center-fragment}
 ![Oops MVP Orders](images/Oops-MVP-Orders.png){width=400 height=400}
-GATHER 
+GATHER
+
 
 (and order)
 ::::
-:::
-
-::: {.column width="60%"}
-
-:::: fragment
-### Understanding your source 
-<br>
-
-::::
-
-:::: fragment 
-### Ordering and Batching 
-<br>
-
-::::
-
-:::
-
-
-## DISTILLING THE PROCESS - DOING 
-<br>
-
-::: {.columns}
-::: {.column width="15%"}
 :::
 ::: {.column width="25%"}
 :::: {.fragment .center-fragment}
@@ -131,313 +130,331 @@ DO SHIT
 ::::
 :::
 
-::: {.column width="60%"}
 
-:::: fragment
-### Picking work 
-<br>
-
-::::
-
-:::: fragment 
-### Ordering and Batching 
-<br>
-
-::::
-
-:::: fragment
-### Speccing the work
-<br>
-
-::::
-
-:::
-
-
-
-
-:::
-
-<br>
-
-::: {.fragment .right-fragment} 
-There is no "right or wrong" process.\
-There is a "right now" process. It needs to change as the situation changes. 
-:::
-
-::: notes
-Underpants Gnomes had it right.
-
-AGILE vs agile - applying agile principles of X,Y,Z to our process not just our work.
-
-RIGHT ABSTRACTION for our process both so we can talk when we all have different ones - 
-SKETCHING YOURS in a BIT MORE DETAIL CAN BE USEFUL
-and to help us each turn "how we do things around here" into better questions about if key parts of our process could be done in a better way.
-
-Demming - grandpa of process improvement would want to talk to us about - Continuous Improvement (PDCA) Plan Do Check Act - Elimination of Fear and Collaboration Over Competition - Driving out Waste (and thats where the minimal comes from!)
-
-END THOUGHT: **The best process is a moving target...** so we need to train ourselves to look for friction and where its not working and figure out how to improve...
-
-Intertia is the enemy!  
-EXPERIMENTATION is your friend.
-:::
-
-
-::: {.columns}
 ::: {.column width="25%"}
-:::: {.fragment .center-fragment} 
+:::: {.fragment .center-fragment}
 ![Oops MVP Work](images/Oops-MVP-Work.png){width=400 height=400}
-DELIVER 
+DELIVER
+
 
 (profit?!?)
 
+
 ::::
 :::
-
-
-::: {.columns}
-::: {.column width="15%"}
-:::
-::: {.column width="75%"}
-
-:::: fragment
-### Understanding your source 
-<br>
-
-::::
-
-:::: fragment 
-### Ordering and Batching 
-<br>
-
-::::
-
-:::: fragment
-### Speccing the work
-<br>
-
-::::
-
-:::
-::::
-
+::::::
 
 ::: notes
----- Story time - Guilt Driven Development
 
-LOOK FOR SEAMS AND HANDOFFS - BATON TO PASS can be dropped.  FRICTION
+**RIGHT ABSTRACTION** for our process both so we can talk when we all have different ones -
+SKETCHING YOURS in a BIT MORE DETAIL CAN BE USEFUL
 
-FIRST BATON is TEEING UP THE WORK
-    How is it determined what goes into the queue?  Does the team have a role in shaping it? (not worried if the role is a product manager or leader or shared)
-  Are the decision makers close enough to the process?  Do they have what they need to make good decicisions?  Is it possible to be more goal based to allow the team to figure out the how?
-Product Manager vs Team Lead vs Two levels up - 
+**FINDING FRICTION (and WASTE)**
+
+**HANDOFFS and PASSING THE BATON**
+
+**ONE TWO THREE**
+
+Fundamentally the **UNDERPANTS GNOMES** had it right.
+
+Agile and Agile
+
+:::
+
+## DISTILLING THE PROCESS - PLANNING
+<br>
+
+:::::: {.columns}
+
+::: {.column width="10%"}
+
+:::
+
+::: {.column width="25%"}
+
+:::: {.fragment .center-fragment}
+
+![Oops MVP Orders](images/Oops-MVP-Orders.png){width=400 height=400}
+GATHER 
+
+(and order)
+::::
+
+:::
+
+::: {.column width="60%"}
+
+:::: fragment 
+<br>
+
+### Intentionally consider **all stakeholders** and the level of input they can/should provide
+<br>
+::::
+
+:::: fragment
+### Specify as much as detail as the team needs and **no more** 
+<br>
+::::
+
+:::
+
+::::::
+
+::: notes
+
+**FRICTION!!!**
+**LOOK FOR SEAMS AND HANDOFFS - BATON TO PASS can be dropped.**
+
+**FIRST BATON is TEEING UP THE WORK**
+   How is it determined what goes into the queue?  Does the team have a role in shaping it? (not worried if the role is a product manager or leader or shared)
+**ALL THE STAKEHOLDERS**
+management, product manager, users, passive viewers, other teams
+**METRICS CAN BE A FORM OF STAKEHOLDER**
+Are the decision makers close enough to the process?  Do they have what they need to make good decicisions?  
+Is it possible to be more goal based to allow the team to figure out the how?
+Product Manager vs Team Lead vs Two levels up -
 
 CAN BE DISCONNECTED CAUSING DISATISFACTION in HIGHER UPS
-High Level Goals - A Mission.
-Specific Work to Accomplish that - 
+**High Level Goals - A Mission.**
+**Specific Work** to Accomplish that 
 
-Often when things go awry or things are taking too long the focus is on "more spec" "more process" - 
-BEWARE PROCESSES accumulate - 
+Often when things go awry or things are taking too long the focus is on "more spec" "more process" -
+BEWARE PROCESSES accumulate -
 
-FRICTION: 
-TOO MUCH WORK - main thing is to prioritize and show progress.  straw man if we need this level of progress
-BAD PRIORITIZATION - lots of little things, not big things - missed targets on most important
-REDOing WORK is a sign of issues speccing and ordering
-TOO MUCH OR TOO LITTLE SPECIFICATION - Very dependant on team experience and knowlodge of the space - more knowledge means better with less spec
--- If things have to be
--- Framed as needs
--- Power of Pairing
-
-SMALLER BATCHES - have a backlog but also have a place for "someday" you dont feel guilty about.  Good ideas come up again and again.  
+**SMALLER BATCHES** have a backlog but also have a place for "someday" you dont feel guilty about.  Good ideas come up again and again. 
 How long an interval is one of the easiest things to experiment with.  2,3,4,5,6 weeks can all work and will change planning and amount of discretion, and time spent on all the work around a batch.
 
-STORYTIME
-Speccing the work is where Shiny struggling.  No traditional product person, dev team set agenda.
-They were serving themselves and needed missions not specs.  QA was insisting on specs.  Guilt driven development.  Write the story up front.  IT was wasteful and frustrating.  Productivity and joy went up
-as speccing and tracking.
+**STORYTIME**
+**SHINY TEAM - GUILT DRIVEN DEVELOPMENT**
+Speccing the work is where Shiny struggling.  No traditional product person, dev team set agenda.  
+They were serving themselves and needed missions not specs.  QA was insisting on specs. Write the story up front.  It was wasteful and frustrating.  Productivity and joy went up as speccing and tracking.
+Sometimes for complex work involving other groups specs get done more often not.
 :::
 
-## DISTILLING THE PROCESS - DELIVERING
-<br> <br>
+## DISTILLING THE PROCESS - DOING 
+`<br>`{=html}
 
-::: {.columns}
-::: {.column width="15%"}
+:::::: {.columns}
+
+::: {.column width="5%"}
+
 :::
-::: {.column width="75%"}
+
+::: {.column width="25%"}
+
+:::: {.fragment .center-fragment}
+![Oops MVP DS](images/Oops-MVP-DS.png){width=400 height=400}
+DO SHIT
+::::
+
+:::
+
+::: {.column width="50%"}
 
 :::: fragment 
-### Picking work
-<br> 
+`<br>`{=html}
+
+### Make sure you leave as much **space** as possible - for the **who**, **what** and **how**
+`<br>`{=html}
 ::::
 
-:::: fragment 
-### Meeting and coordinating
-<br>
+:::: fragment
+### Carefully consider meeting purpose and freqency, as well as who needs to be there
+`<br>`{=html}
 ::::
 
-:::: fragment 
-### Making Space
-<br> 
+:::
+
+::: {.column width="10%"}
+
+:::: {.fragment .center-fragment}
+`<br>`{=html}
+{{< qrcode https://tidyfirst.substack.com/p/responsible-slack >}} 
 ::::
 
-::: 
-::::
+:::
+
+:::::::
 
 ::: notes
+**SIGNS OF FRICTION**
 
-SIGNS OF FRICTION
-    LACK OF CLARITY ABOUT WHO HAS WHAT
-    PAINFUL INPUT TOO LATE IN THE PROCESS
-    MEETING DREAD - feeling pointless
+ **Burnout, no redunancy, feeling unappreciated** 
+ **Dont same work same person**.  
+ Fairness if there is more and less exciting work.  Dont always let those willing to do the drudgery
+ Are you burning certain people out with the same sort of work over and over?
+ Are you "assigning" work at a higher level (team lead?) when the team can figure it out?
+ **AUTONOMY** 
+Enabling people to work how they want (as long as its not at the cost of others)  
 
-Picking work...
-    How is work assigned, how does everyone else know who has what?
-    Questions to consider:  
-    Are you burning certain people out with the same sort of work over and over?
-    Are you "assigning" work at a higher level (team lead?) when the team can figure it out?
-    COMMON THEME:  **Make the decisions as close to the work as possible.**
-    Is it not clear who is picking up work or when?
-    **Dont let the same type of work always go to the same person**.  Burnout and no reduncancy
-    **Fairness** if there is more and less exciting work.  Dont always let those willing to do the drudgery
-    keep falling into that work no matter how much they say they dont mind.
+**INPUT TOO LATE** IN THE PROCESS
+**MEETING DREAD** feeling pointless
+  keep falling into that work no matter how much they say they dont mind.
+  Dailes?  Weeklies? Demos? Pairing? Review
 
-Meeting and Coordinating
-    Meetings are a core to process.  Dailes?  Weeklies? Demos? Pairing? Review
-
-Making space is a bit of a catch all...
-    Enabling people to work how they want (as long as its not at the cost of others)
-      AUTONOMY 
-    Dont overly rely on one person to do the same thing
     https://tidyfirst.substack.com/p/responsible-slack 
     The more deadline driven your org - the more slack is absolutely required. 
 
-STORY:
+STORYTIME:
 Doing dailies - too many folks, updates I dont care about.\
-Wait my turn. Too much or too little detail. Broke into subteams told them to meet a couple of times a week as needed Moved on to a new experiment - Context Partners. Meet at least weekly on the critical features with your content partner.
+Wait my turn. Too much or too little detail. Broke into **subteams the met less often** told them to meet a couple of times a week as needed Moved on to a new experiment - 
+**Context Partners** Meet at least weekly on the critical features with your content partner.
+
 :::
 
-## DELIVERING
-<br> <br>
+## DISTILLING THE PROCESS - DELIVERING
 
-::: {.columns}
-::: {.column width="15%"}
+`<br><br>`{=html} 
+
+:::::: {.columns}
+
+::: {.column width="10%"}
+
 :::
-::: {.column width="75%"}
+
+::: {.column width="25%"}
+
+:::: {.fragment .center-fragment}
+![Oops MVP Work](images/Oops-MVP-Work.png){width=400 height=400}
+DELIVER
+::::
+
+:::
+
+::: {.column width="60%"}
+:::: fragment 
+### Often the most neglected part of any process!  
+`<br>`{=html} 
+::::
+
+:::: fragment 
+### Make sure the **team is getting credit for wins** (or do **your** best to own mistakes)
+`<br>`{=html} 
+::::
 
 :::: fragment
-### Handoffs and Feedback
-<br>
+### As a leader you can **make solo process improvements** in delivery
+`<br>`{=html}
 ::::
 
-:::: fragment 
-### Broadcasting Progress
-<br>
-::::
+:::
 
-:::: fragment 
-### Timing And Deadlines 
-<br>
-::::
-
-::: 
-::::
-
-<br><br>
+::::::
 
 ::: notes
-
 SIGNS OF FRICTION
 - General unhappiness **"team isnt delivering enough"** "team delivering the wrong things" 
 - Lack of awareness about **what has been accomplished**
 - **Team feeling down on itself**... like its spining its wheels... going nowhere...
 - Confusion about **"ARE WE DOING THE RIGHT THINGS?!?"**
-  
-Fact is teams like winning - TRUMPETING ABOUT SUCCESSES creates MORE SUCCESS 
+
+**Literally deliver well -- that build, sending that report, update that dashboard, fix that pipeline**
+
+**People (stakeholders) need to KNOW**
+
+Fact is teams like winning - **TRUMPETING ABOUT SUCCESSES creates MORE SUCCESS** 
+
+WHAT IS REPORTED AS SUCCESS WILL HAPPEN MORE!
+**HONEST REPORTS GAIN CREDIBILITY, EVEN (ironically) FAILURES!**
 
 - Always need to look at the seems and handing off is important
 - an often overlooked - claiming wins - **where as a leader you can have a particular impact** but important to bring others in.  avoid it being entirely solo for too long if you can.
-
-WHAT IS REPORTED AS SUCCESS WILL HAPPEN MORE!
-HONEST REPORTS GAIN CREDIBILITY, EVEN (ironically) FAILURES!
-
 :::
 
 ## EXPERIMENT! EXPERIMENT! EXPERIMENT!
-<br><br>
 
-::: {.columns}
+`<br><br>`{=html}
+
+:::::: {.columns}
+
 ::: {.column width="15%"}
+
 :::
+
 ::: {.column width="75%"}
+
 :::: fragment
 ### Accept there is no ***RIGHT*** Process
 Only a "right now process" which must change to improve
 ::::
+
 :::: fragment
 ### Observe and Reflect (together)
 Uncover the friction and waste 
 ::::
-::: fragment
+
+:::: fragment
 ### Formulate Experiments 
 Make changes to your process (lean towards less but frequent) 
-:::
+::::
 
 <br><br>
 
-::: {.fragment .right-fragment} 
+:::: {.fragment .right-fragment} 
 ### ***REPEAT...***
-:::
-::: {.fragment .right-fragment} 
+::::
+
+:::: {.fragment .right-fragment} 
 ### ***REPEAT...***
-:::
-::: {.fragment .right-fragment} 
+::::
+
+:::: {.fragment .right-fragment} 
 ### ***REPEAT...***
+::::
+
 :::
 
-::::
-:::
+::::::
 
 ::: notes
 So we have an abstract mapping of our process and have thought about "hot spots" where is there friction, what bits stick in you or your teams gut
 
-But some of the biggest problems seem really hard to fix especially "while the plane is flying"
+But some of the biggest problems seem really hard to fix especially **"while the plane is flying"**
 
-Time to ACT.  Act through experiments.  Small incremental experiments.
-Bring "the team" along in solving those and don't let the org chart dictate who is on the team to 
-drive experiments. 
-Honestly processes get stale and even if they are right - experiments can help confirm that
+Time to ACT.  Act through experiments.  **Small incremental experiments.**
+**Bring "the team" along** in solving those and don't let the org chart dictate who is on the team to  drive experiments. 
+**processes get stale and even if they are right** - experiments can help confirm that
 and help you re-energize to feel good about how its all running!
 
-Continuous improvement process.
+**Continuous improvement of process.**
 Agile but for process, not work product.
 small "a" agile, not big "A" proscriptive Agile.
-Remember we are going for the minimum viable process to give people room to be awesome.
+Remember we are going for the **minimum viable process- give people room to be awesome.**
 Simply taking away a meeting, or a checkin, or a kanban board stage can be a good experiment.
+
+END THOUGHT: **The best process is a moving target...** so we need to train ourselves to look for friction and where its not working and figure out how to improve...
+
 :::
 
 ## RETRO TO (explicitly) BUILD EXPERIMENTS
-<br>
 
-::: incremental
-***You DO DO RETROSPECTIVES once in a while right?!?***
+<br><br>
 
-<br> <br>
+:::: {.fragment}
+***You DO DO RETROSPECTIVES once in a while right?!?***  
+<br> 
+::::
 
-::: {.columns}
+:::::: {.columns}
 
-::: {.column width="10%"}
+::: {.column width="5%"}
+
 :::
+
 ::: {.column width="25%"}
+
 :::: {.fragment .center-fragment}
 WHICH PART OF OUR PROCESS KILLS YOUR SOUL THE MOST?
 ::::
+
 :::
 
-
 ::: {.column width="25%"}
+
 :::: {.fragment .center-fragment}
 WHAT (POSSIBLY DUMB-ASS) WAY MIGHT MAKE IT SLIGHTLY LESS CRAPPY?
 ::::
+
 :::
 
 ::: {.column width="25%"}
@@ -446,42 +463,47 @@ WHICH "WAY" COULD WE EXPERIMENT WITH AND ADDRESSES THE WORST BIT?
 ::::
 :::
 
+::: {.column width="20%"}
+:::: {.fragment .center-fragment}
+![](images/QRCodeRetros.png){width=200 height=200}
+::::
 :::
 
-:::
+::::::
 
-. . .
-
-::: {.right-fragment}
-<br>
+:::: {.fragment .right-fragment}
+`<br>`{=html}
 Boom your team has brainstormed a new process experiment. 
 
 Give one at a time a few cycles and **keep or pitch** and **try another one**.
-:::
+::::
 
 ::: notes
-Put a finer point on it!  
+**POINTED QUESTIONS** 
 **REINFORCE ITS ABOUT THE TEAM and THEIR JOY**
+
 **HAPPY CONFIDENT teams do more and better work**
 
 GET SOME EXPERIMENTS **If the **team helps shape the experiment they are more likely to succeed** and buy in.
+
 **Limit EXPERIMENTS IN PROGRESS** - just like other work. 1 or 2.
 smallest feasible changes that might have an impact
 
-I suggest restructuring your stale retro questions into as provactive ones as you can get away with.
-If nothing else thats a wakeup call you are trying something different.
-
-Multiple senior members of the Shiny team have Kanban allergies but if your team doesnt...
+Multiple senior members of the Shiny team have **Kanban allergies** but if your team doesnt...
 :::
 
 ## A TOUCH MORE EXPERIMENT PROCESS {background-image="/images/backgrounds/Oops-MVP-POPBackground.jpg"}
 ### ... if you find it really necessary
-<br>
+
+`<br>`{=html}
+
+:::::: {.columns}
 
 ::: {.column width="15%"}
+
 :::
 
-::: {.column width="75%"}
+::: {.column width="60%"}
 
 :::: fragment 
 ### POP (of the popcorn method) 
@@ -498,32 +520,49 @@ Multiple senior members of the Shiny team have Kanban allergies but if your team
 :::: fragment 
 <tactic> - Possible experiments <br> 
 ::::
-<br>
 
 :::
 
-::: {.columns}
-::: {.column width="35%" column-padding=50px}
-
-:::: fragment
-<br>
-The popcorn kanban board can help, especially if you ***identify experiments***, 
-but have trouble following through!  
-(Thats the CORN)
+::: {.column width="20%"}
+:::: {.fragment .center-fragment}
+![](images/QRCodePopcorn.png){width=200 height=200}
 ::::
 
 :::
+
+::::::
+
+:::::: {.columns}
+
+::: {.column width="35%" column-padding=50px}
+
+:::: fragment
+
+<br>
+
+The popcorn kanban board can help, especially if you ***identify experiments***, 
+but have trouble following through!  
+(Thats the CORN)
+
+::::
+
 :::
 
+::::::
+
 ::: notes
-What I have described so far is the "POP" of the "POPCORN" process improvement method by Claudio Perrone
-CORN os (COMMITS, ONGOING, REVIEW, NEXT)
+What I have described so far is the "POP" of the "POPCORN" process improvement method by **Claudio Perrone**
+CORN is **(COMMITS, ONGOING, REVIEW, NEXT)**
 https://djdegrood.wordpress.com/2017/12/21/improving-with-the-popcorn-flow-by-claudio-peronne/
 
 :::
 
 ## BATTLING EXCUSEY PANTS BUT, BUT, BUTS...
 <br>
+
+:::::: {.columns}
+
+::: {.column width="85%"}
 
 ::: {.fragment .question-fragment} 
 OUR BIGGEST PROBLEMS ARE NOT _IN_ OUR GROUP -- ITS "THEM"
@@ -540,10 +579,10 @@ if you stick to a process that isnt really working it will only get worse.
 :::
 
 ::: {.fragment .question-fragment} 
-ITS JUST NOT GOING TO MAKE A DIFFERENCE -- WE HAVE TRIED BEFORE
+ITS JUST NOT GOING TO MAKE A DIFFERENCE -- WE HAVE TRIED
 :::
 ::: {.fragment .answer-fragment}  
-failing is part of the process, good to keep in mind what didnt work.  bad ideas? too ambitious? lack of follow through? learn and you will improve.
+failing is part of the process, learn.  bad ideas? too ambitious? lack of follow through? learn and improve.
 :::
 
 ::: {.fragment .question-fragment} 
@@ -555,10 +594,15 @@ dont disempower you and your team, you are just being "agile"
 and you asked permission?!?
 :::
 
-::: {.fragment .center-fragment style="color: #FFF9C4"} 
-This is all about sharpening your collective team saw
 :::
 
+::: {.column width="15%"}
+
+{{< qrcode https://staysaasy.com/management/2024/08/06/standardize.html >}} 
+
+:::
+
+::::::
 . . .
 
 
@@ -568,7 +612,7 @@ Retros "small a" agile not "big A" agile Retros can get stale. If you have them 
 
 EXPERIMENTS If the team helps shape the experiment they are more likely to really give it a shot
 
-as a leader you need to model it and believe it
+**as a leader you need to model it and believe it**
 
 Our stakeholders keep moving the goalposts!
 
@@ -576,6 +620,8 @@ Our stakeholders keep moving the goalposts!
 
 
 ## Said another way... {.poem}
+
+<br>
 
 In a lively hub where ideas fly and dart,
 
@@ -623,3 +669,4 @@ And some key technical leadership resources I love and keeping coming back to
 -   The Managers Path by Camille Fournier
 
 -   High-Impact Tools for Teams by Alex Osterwalder
+  
