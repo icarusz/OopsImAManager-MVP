@@ -674,25 +674,65 @@ IF NOT I BEG YOUR FORGIVENESS FOR MY INDULGNENCE
 
 ## Thanks!
 
+
+:::::: {.columns}
+
+::: {.column width="75%"}
+
 If you are on this journey and want some support PLEASE REACH OUT andrew.holz\@posit.co linkedin/andrewholz
 
-You can find this talk on github: https://github.com/icarusz/OopsImAManager-MVP/
+You can find this talk on github: 
 
-::: {.column width="15%"}
+https://github.com/icarusz/OopsImAManager-MVP/
+
+:::
+
+::: {.column width="25%"}
 
 {{< qrcode https://github.com/icarusz/OopsImAManager-MVP/tree/main >}} 
 
 :::
 
+::::::
+
 <br>
 
-And some key technical leadership resources I love and keeping coming back to
+Some of my favorite technical leadership books I love and keeping coming back to:
 
--   Resilient Management by Lara Hogan
+:::::: {.columns}
 
--   An Elegant Puzzle by Will Larson
+::: {.column width="25%"}
+![](images/ResilientManagement.jpg){width=150}
 
--   The Managers Path by Camille Fournier
+Resilient Management
 
--   High-Impact Tools for Teams by Alex Osterwalder
-  
+Lara Hogan
+:::
+
+::: {.column width="25%"}
+![](images/ElegantPuzzle.jpg){width=150}
+
+An Elegant Puzzle
+Wil Larson
+:::
+
+::: {.column width="25%"}
+
+![](images/ManagersPath.jpg){width=150}
+
+The Managers Path
+Camille Fournier
+:::
+
+::: {.column width="25%"}
+
+![](images/HighImpact.jpg){width=200}
+
+<br>
+
+High-Impact Tools for Teams
+
+Alex Osterwalder
+:::
+
+::::::
