@@ -1,6 +1,6 @@
 
 
-![TitlePage](/images/OopsMVPTitle.pngste_link_here)
+![TitlePage](https://github.com/icarusz/OopsImAManager-MVP/blob/main/images/OopsMVPTitle.png)
 
 
 This Quarto project is for my "Oops I am a Manager - On Minimal Viable **Process**"
