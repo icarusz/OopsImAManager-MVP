@@ -1,3 +1,6 @@
+
+![](images/OopsMVPTitle.png){width=400 height=200}
+
 This Quarto project is for my "Oops I am a Manager - On Minimal Viable **Process**"
  for Posit Conf 2024.
 
