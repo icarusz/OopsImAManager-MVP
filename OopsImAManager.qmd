@@ -70,7 +70,7 @@ MOST **LEADERSHIP TRAINING IS DRY, TAKES ITSELF SERIOUSLY and LACK SPECIFIC ACTI
 ## MINIMAL VIABLE *PROCESS*?!?
 <br> <br>
 
-::: {.columns}
+:::::: {.columns}
 ::: {.column width="15%"}
 :::
 ::: {.column width="75%"}
@@ -85,10 +85,14 @@ How shit gets done.
 ::: fragment
 ### Minimal 
 Heavy processes don't promote progress they paralyze it.
-:::
-
 ::::
+
 :::
+::::::
+
+
+![](images/Oops-MVP-AssemblyLine.png){width=800}
+
 
 ::: notes
 PROCESS:
@@ -397,19 +401,19 @@ Uncover the friction and waste
 Make changes to your process (lean towards less but frequent) 
 ::::
 
+:::
 
+::::::
+
+:::::: {.columns}
+
+::: {.column width=25%}
+
+![](images/Oops-MVP-Experiment.png){width=300}
 
 :::
 
-::: {.column width="10%"}
-
-:::: {.fragment .center-fragment}
-{{< qrcode https://larahogan.me/blog/first-60-days-new-role/ >}} 
-::::
-
-:::
-
-
+::: {.column width="75%"}
 
 <br><br>
 
@@ -495,8 +499,7 @@ WHICH "WAY" COULD WE EXPERIMENT WITH AND ADDRESSES THE WORST BIT?
 ::::::
 
 :::: {.fragment .right-fragment}
-`<br>`{=html}
-Boom your team has brainstormed a new process experiment. 
+`<br><br>`{=html}
 
 Give one at a time a few cycles and **keep or pitch** and **try another one**.
 ::::
@@ -646,6 +649,10 @@ Our stakeholders keep moving the goalposts!
 
 <br>
 
+:::::: {.columns}
+
+::: {.column width="75%"}
+
 In a lively hub where ideas fly and dart,
 
 The team mapped their processes, each playing their part.
@@ -663,6 +670,17 @@ Finding new ways their efforts could sway.
 From shadows of old, they emerged step by step. 
 
 Their process now streamlined, efficient and light.
+
+:::
+
+::: {.column width="25%"}
+
+![](images/Oops-MVP-JoyousLightTeam.png)
+
+:::
+
+:::::: 
+
 
 ::: notes
 IF YOU LOVE DR SEUSS 1/2 as MUCH AS I HOPEFULLY THIS WILL BRING IT ALL HOME
