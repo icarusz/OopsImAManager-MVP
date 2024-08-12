@@ -166,7 +166,7 @@ Agile and Agile
 
 :::::: {.columns}
 
-::: {.column width="10%"}
+::: {.column width="5%"}
 
 :::
 
@@ -194,6 +194,15 @@ GATHER
 :::: fragment
 ### Specify as much as detail as the team needs and **no more** 
 <br>
+::::
+
+:::
+
+::: {.column width="10%"}
+
+:::: {.fragment .center-fragment}
+`<br>`{=html}
+{{< qrcode https://tidyfirst.substack.com/p/responsible-slack >}} 
 ::::
 
 :::
@@ -367,7 +376,7 @@ WHAT IS REPORTED AS SUCCESS WILL HAPPEN MORE!
 
 :::::: {.columns}
 
-::: {.column width="15%"}
+::: {.column width="5%"}
 
 :::
 
@@ -387,6 +396,20 @@ Uncover the friction and waste
 ### Formulate Experiments 
 Make changes to your process (lean towards less but frequent) 
 ::::
+
+
+
+:::
+
+::: {.column width="10%"}
+
+:::: {.fragment .center-fragment}
+{{< qrcode https://larahogan.me/blog/first-60-days-new-role/ >}} 
+::::
+
+:::
+
+
 
 <br><br>
 
@@ -653,16 +676,19 @@ IF NOT I BEG YOUR FORGIVENESS FOR MY INDULGNENCE
 
 If you are on this journey and want some support PLEASE REACH OUT andrew.holz\@posit.co linkedin/andrewholz
 
-The leadership journey needs a drip of ideas and sustained bits of practice.
-Find resources and 
+You can find this talk on github: https://github.com/icarusz/OopsImAManager-MVP/
+
+::: {.column width="15%"}
+
+{{< qrcode https://github.com/icarusz/OopsImAManager-MVP/tree/main >}} 
+
+:::
 
 <br>
 
 And some key technical leadership resources I love and keeping coming back to
 
 -   Resilient Management by Lara Hogan
-
--   Help I have a manager by Julia Evans
 
 -   An Elegant Puzzle by Will Larson
 
