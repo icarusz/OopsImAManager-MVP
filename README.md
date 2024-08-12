@@ -1,6 +1,6 @@
 
 
-![Title](images/OopsMVPTitle.pngste_link_here)
+![TitlePage](/images/OopsMVPTitle.pngste_link_here)
 
 
 This Quarto project is for my "Oops I am a Manager - On Minimal Viable **Process**"
