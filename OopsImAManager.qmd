@@ -184,7 +184,7 @@ GATHER
 
 :::
 
-::: {.column width="60%"}
+::: {.column width="55%"}
 
 :::: fragment 
 <br>
@@ -200,12 +200,20 @@ GATHER
 
 :::
 
-::: {.column width="10%"}
+::: {.column width="15%"}
 
 :::: {.fragment .center-fragment}
 `<br>`{=html}
 {{< qrcode https://tidyfirst.substack.com/p/responsible-slack >}} 
 ::::
+
+`<br><br><br><br>`{=html}
+
+:::: {.fragment .center-fragment}
+`<br>`{=html}
+![](images/Oops-MVP-Story.png){width=250 height=250}
+::::
+
 
 :::
 
@@ -260,7 +268,7 @@ DO SHIT
 
 :::
 
-::: {.column width="50%"}
+::: {.column width="45%"}
 
 :::: fragment 
 `<br>`{=html}
@@ -276,11 +284,18 @@ DO SHIT
 
 :::
 
-::: {.column width="10%"}
+::: {.column width="15%"}
 
 :::: {.fragment .center-fragment}
 `<br>`{=html}
 {{< qrcode https://tidyfirst.substack.com/p/responsible-slack >}} 
+::::
+
+`<br><br><br><br>`{=html}
+
+:::: {.fragment .center-fragment}
+`<br>`{=html}
+![](images/Oops-MVP-Story.png){width=250 height=250}
 ::::
 
 :::
@@ -623,7 +638,11 @@ and you asked permission?!?
 
 ::: {.column width="15%"}
 
-`<br><br><br><br><br><br><br><br><br><br><br><br>`{=html}
+`<br><br><br>`{=html}
+
+{{< qrcode https://www.leanessays.com/2022/06/when-demand-exceeds-capacity.html >}} 
+
+`<br><br><br><br><br>`{=html}
 
 {{< qrcode https://staysaasy.com/management/2024/08/06/standardize.html >}} 
 
@@ -644,6 +663,40 @@ EXPERIMENTS If the team helps shape the experiment they are more likely to reall
 Our stakeholders keep moving the goalposts!
 
 :::
+
+## In summary - agile up your process 
+(not just your product)
+`<br><br>`{=html}
+
+:::::: {.columns}
+::: {.column width="10%"}
+:::
+::: {.column width="75%"}
+
+### ***Individuals and interactions*** 
+::: {.answer-fragment}  
+**over processes and tools.**
+:::
+
+### ***Working software*** 
+::: {.answer-fragment}  
+**over comprehensive documentation.**
+:::
+
+### ***Customer collaboration*** 
+::: {.answer-fragment}  
+**over contract negotiation.**
+:::
+
+### ***Responding to change*** 
+::: {.answer-fragment}  
+**over following a plan.**
+:::
+
+{{< qrcode https://agilemanifesto.org/display/000000049.html >}}
+
+:::
+::::::
 
 
 ## Said another way... {.poem}
