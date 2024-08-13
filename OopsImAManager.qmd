@@ -67,13 +67,13 @@ NOT SO SECRET MISSION IS TO ENCOURAGE EXPLORATION of TECHNICAL MANAMANGENT FOR T
 MOST **LEADERSHIP TRAINING IS DRY, TAKES ITSELF SERIOUSLY and LACK SPECIFIC ACTIONS** TO TRY AND PRACTICE -- 
 :::
 
-## MINIMAL VIABLE *PROCESS*?!?
-<br> <br>
+## MINIMAL VIABLE *PROCESS*?!? {background-image="/images/backgrounds/Oops-MVP-ProcessBackground.jpg"}
+<br>
 
 :::::: {.columns}
-::: {.column width="15%"}
+::: {.column width="20%"}
 :::
-::: {.column width="75%"}
+::: {.column width="70%"}
 :::: fragment
 ### Process
 How shit gets done.
@@ -90,8 +90,6 @@ Heavy processes don't promote progress they paralyze it.
 :::
 ::::::
 
-
-![](images/Oops-MVP-AssemblyLine.png){width=800}
 
 
 ::: notes
@@ -321,7 +319,7 @@ Wait my turn. Too much or too little detail. Broke into **subteams the met less 
 
 :::::: {.columns}
 
-::: {.column width="10%"}
+::: {.column width="5%"}
 
 :::
 
@@ -336,7 +334,7 @@ DELIVER
 
 ::: {.column width="60%"}
 :::: fragment 
-### Often the most neglected part of any process!  
+### Beyond **shipping** other aspects of delivering are often neglected!  
 `<br>`{=html} 
 ::::
 
@@ -568,7 +566,8 @@ Multiple senior members of the Shiny team have **Kanban allergies** but if your 
 
 The popcorn kanban board can help, especially if you ***identify experiments***, 
 but have trouble following through!  
-(Thats the CORN)
+
+(CORN: Commit, Ongoing, Review, Next)
 
 ::::
 
@@ -623,6 +622,8 @@ and you asked permission?!?
 :::
 
 ::: {.column width="15%"}
+
+`<br><br><br><br><br><br><br><br><br><br><br><br>`{=html}
 
 {{< qrcode https://staysaasy.com/management/2024/08/06/standardize.html >}} 
 
