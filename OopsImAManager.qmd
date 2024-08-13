@@ -664,9 +664,8 @@ Our stakeholders keep moving the goalposts!
 
 :::
 
-## In summary - agile up your process 
-(not just your product)
-`<br><br>`{=html}
+## Agile up your process - not just your product
+`<br>`{=html}
 
 :::::: {.columns}
 ::: {.column width="10%"}
