@@ -12,3 +12,7 @@
   quarto-pub:
     - id: f4e666cd-b151-4420-a003-8bb9df004ce6
       url: 'https://icarusz.quarto.pub/oops-i-am-a-manager-on-minimal-viable-process'
+- source: OopsImAManagerMVP.qmd
+  quarto-pub:
+    - id: 8f1158ba-c65d-4f6f-b828-4ee35a14fd74
+      url: 'https://icarusz.quarto.pub/oopsimamanagermvp'
