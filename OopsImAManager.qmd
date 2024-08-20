@@ -6,6 +6,10 @@ date: August 13, 2024
 title-slide-attributes: 
   data-background-color: black
   data-background-image: "/images/OopsManagerBackground.png"
+resources:
+  - /images/backgrounds/OopsLineupBackground.png
+  - /images/backgrounds/Oops-MVP-ProcessBackground.jpg
+  - /images/backgrounds/Oops-MVP-ProcessBackground.jpg
 format:
   revealjs: 
     width: "1600"

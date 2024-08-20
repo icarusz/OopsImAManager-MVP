@@ -8,3 +8,7 @@
       url: 'https://quartopub.com/sites/icarusz/open-source-demos'
     - id: 85c7397b-82fb-4103-ba0a-406b2832c001
       url: 'https://quartopub.com/sites/icarusz/open-source-demos-mar3'
+- source: OopsImAManager.qmd
+  quarto-pub:
+    - id: f4e666cd-b151-4420-a003-8bb9df004ce6
+      url: 'https://icarusz.quarto.pub/oops-i-am-a-manager-on-minimal-viable-process'
